@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Omar\\source\\repos\\EmptyBlazorApp1\\EmptyBlazorApp1\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\source\\repos\\EmptyBlazorApp1\\EmptyBlazorApp1\\wwwroot\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Top12CryptoInfoBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Top12CryptoInfoBlazor.props",
+      "PackagePath": "build\\Top12CryptoInfoBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Top12CryptoInfoBlazor.props",
+      "PackagePath": "buildMultiTargeting\\Top12CryptoInfoBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Top12CryptoInfoBlazor.props",
+      "PackagePath": "buildTransitive\\Top12CryptoInfoBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
